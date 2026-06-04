@@ -1,6 +1,8 @@
-# SKILL.md — Universal Discourse, Authority, Identity, Technology, and Legitimacy Analysis
-
-## Purpose
+---
+name: analytics.skill
+describe: Universal Discourse, Authority, Identity, Technology, and Legitimacy Analysis
+---
+# Purpose
 
 This skill is designed for general-purpose AI agents (OpenCode, Pi, Antigravity, Codex, Claude Code, Gemini CLI, Aider, Roo Code, Cline, and similar systems).
 

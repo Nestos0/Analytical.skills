@@ -1,1 +1,0 @@
-# Framework Competition Test

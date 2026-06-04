@@ -1,6 +1,6 @@
 ---
 name: analytics.skill
-describe: Universal Discourse, Authority, Identity, Technology, and Legitimacy Analysis
+description: Universal Discourse, Authority, Identity, Technology, and Legitimacy Analysis
 ---
 # Purpose
 
